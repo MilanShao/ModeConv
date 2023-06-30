@@ -10,12 +10,6 @@ Dependencies:
 pip install torch --index-url https://download.pytorch.org/whl/cu117
 pip install -r requirements.txt
 ```
-## Data
-
-The datasets for Luxemburg and the Smart Bridge Simulated Dataset in this repository represent 5 percent of the original data.
-In the case of the Luxemburg dataset the 5 percent have even been to much to load it up in github. Therefore this link heads to the dataset: [https://www.dropbox.com/scl/fo/dk13szw9kf9nmlk5o31p2/h?dl=0&rlkey=j3qx3atdq2r4028gzhgd0y59s](https://www.dropbox.com/scl/fo/dk13szw9kf9nmlk5o31p2/h?dl=0&rlkey=j3qx3atdq2r4028gzhgd0y59s)
-Please store the Luxemburg dataset in the data folder of this repository.
-
 
 ## How to use
 
@@ -65,6 +59,8 @@ optional arguments:
 ## Datasets
 
 The csv files for the luxemburg dataset only contain about 5% of the full data used.
+In the case of the Luxemburg dataset the 5% percent have even been to much to load it up in github. Therefore this link heads to the dataset: [https://www.dropbox.com/scl/fo/dk13szw9kf9nmlk5o31p2/h?dl=0&rlkey=j3qx3atdq2r4028gzhgd0y59s](https://www.dropbox.com/scl/fo/dk13szw9kf9nmlk5o31p2/h?dl=0&rlkey=j3qx3atdq2r4028gzhgd0y59s)
+Please store the Luxemburg dataset in the data folder of this repository.
 
 The csv files for the simulated_smart_bridge dataset only contain about 6% of the full data.
 
