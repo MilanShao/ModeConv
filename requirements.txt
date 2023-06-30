@@ -1,0 +1,12 @@
+torch-geometric==2.2.0
+torch-cluster -f https://data.pyg.org/whl/torch-2.0.0+cu117.html
+torch-scatter -f https://data.pyg.org/whl/torch-2.0.0+cu117.html
+torch-sparse -f https://data.pyg.org/whl/torch-2.0.0+cu117.html
+torch-spline-conv -f https://data.pyg.org/whl/torch-2.0.0+cu117.html
+numpy==1.23.5
+scipy==1.10.1
+scikit-learn==1.2.1
+pandas==1.5.3
+networkx==3.0
+tqdm==4.64.1
+pytorch-lightning==1.9.2

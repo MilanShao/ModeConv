@@ -1,0 +1,6 @@
+ModeConvModel/results
+processed_lux
+processed_simulated_smart_bridge
+lightning_logs
+
+*.ckpt
