@@ -10,6 +10,8 @@ Dependencies:
 pip install torch --index-url https://download.pytorch.org/whl/cu117
 pip install -r requirements.txt
 ```
+## Installation
+Paperlink: https://dl.acm.org/doi/10.1145/3797951
 
 ## How to use
 
